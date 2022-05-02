@@ -8,7 +8,7 @@ header{
 }
 
 section{
-    background: white;
+    background-color: bisque;
     border-radius: 9px;
     padding: 15px;
     width: 500px;
@@ -16,8 +16,17 @@ section{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.76);
 }
 
-footer{
+div{
     text-align: center;
-    font-style: italic;
-    color: white;
+    padding: 8px;
+    
 }
+
+footer{
+    
+    color: rgb(3, 26, 27);
+    text-align: center;
+    font-size: 0.8em;
+    padding: 0px;
+}
+
