@@ -16,6 +16,10 @@ section{
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.76);
 }
 
+select{
+    width: 150px;
+}
+
 div{
     text-align: left;
     padding: 8px;
