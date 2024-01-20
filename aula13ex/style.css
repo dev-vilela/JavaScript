@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(117, 205, 247);
+    background: rgba(0, 0, 0, 0.719);
     font: normal 15pt arial;
 }
 
@@ -7,6 +7,7 @@ header{
     background-color: bisque;
     text-align: center;
 }
+
 #foto{
     border-radius: 50%;
     width: 250px;
@@ -30,7 +31,7 @@ div{
 
 footer{
     
-    color: rgb(3, 26, 27);
+    color: #1fec41;
     text-align: center;
     font-size: 0.8em;
     padding: 0px;
